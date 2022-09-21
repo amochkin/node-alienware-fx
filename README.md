@@ -10,7 +10,7 @@ This is a Node.js module for controlling Alienware laptops with the Alienware FX
 ## Installation
 
 ```bash
-npm install amochkin/node-alienware-fx
+npm install node-alienware-fx
 ### Or for Yarn:
-yarn add amochkin/node-alienware-fx
+yarn add node-alienware-fx
 ```

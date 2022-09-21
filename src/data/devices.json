@@ -1,0 +1,14 @@
+{
+	"devices": [
+		{
+			"name": "Alienware FX Controller 0520",
+			"vid": "187c",
+			"pid": "0520"
+		},
+		{
+			"name": "Alienware FX Controller 0550 (m17r2)",
+			"vid": "187c",
+			"pid": "0550"
+		}
+	]
+}
